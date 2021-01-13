@@ -1,2 +1,2 @@
 # Mercari-price-suggestion
-A Kaggle compition, Mercari Price suggestion Challenge, where i ranked in under top 6 percentile.
+A Kaggle competition Mercari Price suggestion Challenge, where I ranked in under the top 6 percentile.
