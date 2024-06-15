@@ -41,6 +41,10 @@ Ridge Regression was chosen as a linear model due to its effectiveness with non-
 ### LightGBM
 LightGBM, a gradient boosting framework, was employed for its efficiency with large datasets and ability to handle categorical features without extensive preprocessing. It was the primary model for final predictions.
 
+### Stacking
+
+Stacked both Models with the Meta model being a simple weighted average of both models, where the weights were proportional to the inverse ratio of the errors of the models output
+
 ## Hyperparameter Tuning
 Hyperparameter tuning was performed to optimize model performance for both Ridge Regression and LightGBM. Techniques used include:
 - GridSearchCV for Ridge Regression
