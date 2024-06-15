@@ -3,8 +3,6 @@ A Kaggle competition Mercari Price suggestion Challenge, where I ranked in under
 Please view below link to see how I tackled the problem.
 https://akarshan-1711.medium.com/regression-to-suggest-selling-price-7218d35cad15
 
-# Mercari Price Suggestion Challenge
-
 ## Overview
 Welcome to the Mercari Price Suggestion Challenge repository! This repository contains the code and documentation for predicting prices of items listed on Mercari based on various features provided in the dataset. This competition was hosted on Kaggle, and the goal was to develop a model that suggests the right price for sellers to list their products.
 
